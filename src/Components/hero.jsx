@@ -9,7 +9,8 @@ const HeroSection=()=>{
                  SHOES.
             </p>
             <div className="btn">
-                <button className="shop">Shop Now</button>
+                <button className="s
+                hop">Shop Now</button>
                 <button className="cat">Category</button>
             </div>
             <div className="end">
